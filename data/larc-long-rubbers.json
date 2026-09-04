@@ -1,0 +1,5391 @@
+{
+  "meta": {
+    "source": "https://equipment.ittf.com/#/equipment/racket_coverings",
+    "apiEndpoint": "https://ittf-admin-api.azurewebsites.net/api/Equipment_RacketCoverings/all_list",
+    "filter": "PimpleType=Long",
+    "total": 229,
+    "scrapedAt": "2026-09-04T14:44:09.200Z",
+    "withDetail": false
+  },
+  "rubbers": [
+    {
+      "code": "115-001",
+      "brand": "61 second",
+      "model": "Wind FT",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "327",
+        "328"
+      ],
+      "imageFile": "61_second_001_Wind_FT good.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/61_second_001_Wind_FT good.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 1613,
+      "updatedAt": "2026-09-04T14:44:09.198Z"
+    },
+    {
+      "code": "115-007",
+      "brand": "61 second",
+      "model": "Cobra",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "339",
+        "340"
+      ],
+      "imageFile": "115-07   COBRA.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/115-07   COBRA.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 1619,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "106-003",
+      "brand": "Air",
+      "model": "Upupupup",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "349",
+        "350"
+      ],
+      "imageFile": "AIR 003 Upupupup.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/AIR 003 Upupupup.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1623,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "95-005",
+      "brand": "Akkadi",
+      "model": "L3",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "653",
+        "654"
+      ],
+      "imageFile": "sml_akkadi_95_005.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/sml_akkadi_95_005.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1633,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "03-006",
+      "brand": "Andro",
+      "model": "Chaos",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "699",
+        "700"
+      ],
+      "imageFile": "ANDRO_006 Chaos.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ANDRO_006 Chaos.gif",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 1640,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "03-034",
+      "brand": "Andro",
+      "model": "Rasant Chaos",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "797",
+        "798"
+      ],
+      "imageFile": "ANDRO RASANT CHAOS (03-034).jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ANDRO RASANT CHAOS (03-034).jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1666,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Armstrong",
+      "model": "Twister",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "903",
+        "904"
+      ],
+      "imageFile": "ARMSTRONG Twister.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ARMSTRONG Twister.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1706,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Avalox / AVX",
+      "model": "Mo",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "953",
+        "954"
+      ],
+      "imageFile": "AVX_MO_29.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/AVX_MO_29.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2026-06-30T00:00:00",
+      "equipmentId": 1731,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "193-003",
+      "brand": "Barna Original",
+      "model": "Legend Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1003",
+        "1004"
+      ],
+      "imageFile": "BARNA 003 Legend Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/BARNA 003 Legend Long.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1749,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "193-004",
+      "brand": "Barna Original",
+      "model": "Classic Defence",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1005",
+        "1006"
+      ],
+      "imageFile": "BARNA 004 Classif Defence.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/BARNA 004 Classif Defence.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1750,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Bomb",
+      "model": "Talent",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1047",
+        "1048"
+      ],
+      "imageFile": "BOMB_Talent.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/BOMB_Talent.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1771,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Butterfly",
+      "model": "Feint AG",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1385",
+        "1386"
+      ],
+      "imageFile": "BUTTERFLY_Feint_AG.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/BUTTERFLY_Feint_AG.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 1820,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Butterfly",
+      "model": "Feint Long II",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1387",
+        "1388"
+      ],
+      "imageFile": "FeintLong2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/FeintLong2.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1821,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Butterfly",
+      "model": "Feint Long III",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1389",
+        "1390"
+      ],
+      "imageFile": "butterfly_feint_long_iii.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/butterfly_feint_long_iii.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1822,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Butterfly",
+      "model": "Feint-Ox",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1391",
+        "1392"
+      ],
+      "imageFile": "Feint OX.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Feint OX.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1823,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Butterfly",
+      "model": "Feint-Soft",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1393",
+        "1394"
+      ],
+      "imageFile": "Feint SOFT.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Feint SOFT.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 1824,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "19-002",
+      "brand": "Darker",
+      "model": "Jayro",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1701",
+        "1702"
+      ],
+      "imageFile": "darker_19_002.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/darker_19_002.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-09-30T00:00:00",
+      "equipmentId": 1878,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Dawei",
+      "model": "388D",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1717",
+        "1718"
+      ],
+      "imageFile": "DAWEI 388 D.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DAWEI 388 D.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1886,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Dawei",
+      "model": "388D-1",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Pink",
+        "Violet"
+      ],
+      "colorIds": [
+        "1719",
+        "1720",
+        "4834",
+        "4835",
+        "4836"
+      ],
+      "imageFile": "9February2023_13_37_12_DAWEI 388-D1 artwork good_2023.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/9February2023_13_37_12_DAWEI 388-D1 artwork good_2023.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1887,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Dawei",
+      "model": "Saviga V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "colorIds": [
+        "1725",
+        "1726",
+        "4226",
+        "4227",
+        "4228"
+      ],
+      "imageFile": "DAWEI SAVIGA V.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DAWEI SAVIGA V.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1890,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "189-008",
+      "brand": "Decathlon Pongori",
+      "model": "TTRB 900 Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1741",
+        "1742"
+      ],
+      "imageFile": "DECATHLON PONGORI 008 TTRB 900 Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DECATHLON PONGORI 008 TTRB 900 Long.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": "2026-06-30T00:00:00",
+      "equipmentId": 1898,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-003",
+      "brand": "Der Materialspezialist",
+      "model": "Undertaker",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1747",
+        "1748"
+      ],
+      "imageFile": "DER MATER 003 Under taker.png",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 003 Under taker.png",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 1901,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-004",
+      "brand": "Der Materialspezialist",
+      "model": "L.S.D. Long Super Defence",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1749",
+        "1750"
+      ],
+      "imageFile": "der_materialspezialist_118_004.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/der_materialspezialist_118_004.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 1902,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-007",
+      "brand": "Der Materialspezialist",
+      "model": "Predator",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1755",
+        "1756"
+      ],
+      "imageFile": "DER MATER 007 Predator.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 007 Predator.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 1905,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-008",
+      "brand": "Der Materialspezialist",
+      "model": "Superwall",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1757",
+        "1758"
+      ],
+      "imageFile": "DER MATER 008 Superwall.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 008 Superwall.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1906,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-017",
+      "brand": "Der Materialspezialist",
+      "model": "Rebellion",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1775",
+        "1776"
+      ],
+      "imageFile": "DER MATER 017 Rebellion.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 017 Rebellion.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1915,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-020",
+      "brand": "Der Materialspezialist",
+      "model": "Elimination Extra Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1781",
+        "1782"
+      ],
+      "imageFile": "9February2024_11_59_7_DER MATERIALSPEZIALIST 020 Artwork_correct.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/9February2024_11_59_7_DER MATERIALSPEZIALIST 020 Artwork_correct.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1918,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-025",
+      "brand": "Der Materialspezialist",
+      "model": "Kamikaze",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "1791",
+        "1792",
+        "3972"
+      ],
+      "imageFile": "DER MATER 025 Kamikaze.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 025 Kamikaze.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1923,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-029",
+      "brand": "Der Materialspezialist",
+      "model": "Elite Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1799",
+        "1800"
+      ],
+      "imageFile": "DER MATER 029 Elite Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 029 Elite Long.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1927,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-033",
+      "brand": "Der Materialspezialist",
+      "model": "L.S.D. Extra Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1807",
+        "1808"
+      ],
+      "imageFile": "DER MATER 033 LSD Exrtra Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 033 LSD Exrtra Long.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1931,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "149-002",
+      "brand": "Dingo Swiss",
+      "model": "Zik Zak",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1821",
+        "1822"
+      ],
+      "imageFile": "DINGO SWISS 002 Zik Zak.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DINGO SWISS 002 Zik Zak.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 1938,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "21-003",
+      "brand": "Donic",
+      "model": "Alligator Def",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1827",
+        "1828"
+      ],
+      "imageFile": "DONIC 003 Alligator Def.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DONIC 003 Alligator Def.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 1941,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "21-035",
+      "brand": "Donic",
+      "model": "Spike P1",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1873",
+        "1874"
+      ],
+      "imageFile": "21_035_SPIKE-P1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/21_035_SPIKE-P1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 1964,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "21-036",
+      "brand": "Donic",
+      "model": "Spike P2",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1875",
+        "1876"
+      ],
+      "imageFile": "21_036_Spike P2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/21_036_Spike P2.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 1965,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Donic",
+      "model": "Piranja FD TEC",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1949",
+        "1950"
+      ],
+      "imageFile": "donic_piranja_fdtec.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/donic_piranja_fdtec.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2002,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "23-008",
+      "brand": "Double Fish",
+      "model": "1615",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1987",
+        "1988"
+      ],
+      "imageFile": "DOUBLE FISH 008 1615.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DOUBLE FISH 008 1615.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2022,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "24-027",
+      "brand": "Double Happiness / DHS",
+      "model": "C 8",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2057",
+        "2058"
+      ],
+      "imageFile": "DHS_027_C8.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DHS_027_C8.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2057,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "24-028",
+      "brand": "Double Happiness / DHS",
+      "model": "Cloud & Fog II",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2059",
+        "2060"
+      ],
+      "imageFile": "sml_dhs_24_028.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/sml_dhs_24_028.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 2058,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "24-029",
+      "brand": "Double Happiness / DHS",
+      "model": "Cloud & Fog III",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2061",
+        "2062"
+      ],
+      "imageFile": "dhs_24_029.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dhs_24_029.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2059,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "24-053",
+      "brand": "Double Happiness / DHS",
+      "model": "Cloud & fog",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2099",
+        "2100"
+      ],
+      "imageFile": "dhs_24_053.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dhs_24_053.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 2077,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-003",
+      "brand": "Dr Neubauer",
+      "model": "Monster Classic",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2361",
+        "2362"
+      ],
+      "imageFile": "DR. NEUBAUER 003 Monster Classic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR. NEUBAUER 003 Monster Classic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2088,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-004",
+      "brand": "Dr Neubauer",
+      "model": "Boomerang Classic",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2363",
+        "2364"
+      ],
+      "imageFile": "DR. NEUBAUER 004 Boomerang Classic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR. NEUBAUER 004 Boomerang Classic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2089,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-009",
+      "brand": "Dr Neubauer",
+      "model": "Fighter",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2373",
+        "2374"
+      ],
+      "imageFile": "DR NEUBAUER 009 Fighter.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR NEUBAUER 009 Fighter.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2094,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-010",
+      "brand": "Dr Neubauer",
+      "model": "Inferno Classic",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2375",
+        "2376"
+      ],
+      "imageFile": "DR_NEUBAUER_10_Inferno_Classic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR_NEUBAUER_10_Inferno_Classic.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 2095,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-011",
+      "brand": "Dr Neubauer",
+      "model": "Desperado",
+      "pimpleType": "Long",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "colorIds": [
+        "2378",
+        "4425"
+      ],
+      "imageFile": "DR_NEUBAUER_011_ DESPERADO.png",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR_NEUBAUER_011_ DESPERADO.png",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2096,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-013",
+      "brand": "Dr Neubauer",
+      "model": "Allround Premium",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2381",
+        "2382"
+      ],
+      "imageFile": "Dr_Neubauer_26_013.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Dr_Neubauer_26_013.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2098,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-015",
+      "brand": "Dr Neubauer",
+      "model": "Number 1",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2385",
+        "2386"
+      ],
+      "imageFile": "dr_neubauer_26_015.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dr_neubauer_26_015.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2100,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-016",
+      "brand": "Dr Neubauer",
+      "model": "Viper",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2387",
+        "2388"
+      ],
+      "imageFile": "dr_neubauer_26_016.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dr_neubauer_26_016.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2101,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-019",
+      "brand": "Dr Neubauer",
+      "model": "Viper Soft",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2393",
+        "2394"
+      ],
+      "imageFile": "dr_neubauer_26_019.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dr_neubauer_26_019.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2104,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-022",
+      "brand": "Dr Neubauer",
+      "model": "Gangster",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2399",
+        "2400"
+      ],
+      "imageFile": "dr_neubauer_26_022.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/dr_neubauer_26_022.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2107,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-027",
+      "brand": "Dr Neubauer",
+      "model": "Desperado 2",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2409",
+        "2410"
+      ],
+      "imageFile": "Dr_Neubauer_26_027.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Dr_Neubauer_26_027.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2112,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-032",
+      "brand": "Dr Neubauer",
+      "model": "Trouble Maker",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2419",
+        "2420"
+      ],
+      "imageFile": "DR NEUB 032 Trouble Maker.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR NEUB 032 Trouble Maker.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2117,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-035",
+      "brand": "Dr Neubauer",
+      "model": "Allround Premium 2",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2425",
+        "2426"
+      ],
+      "imageFile": "DR NEUB 035 Allround Premium 2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR NEUB 035 Allround Premium 2.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2120,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "143-014",
+      "brand": "Efforter",
+      "model": "Jewel",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2561",
+        "2562"
+      ],
+      "imageFile": "143-014_Efforter_ Jewel_picture.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/143-014_Efforter_ Jewel_picture.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2146,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "143-015",
+      "brand": "Efforter",
+      "model": "Melody",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2563",
+        "2564"
+      ],
+      "imageFile": "143-015 Efforter Melody.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/143-015 Efforter Melody.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2147,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Friendship",
+      "model": "R.I.T.C. 755",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2683",
+        "2684"
+      ],
+      "imageFile": "FRIENDSHIP_755_26.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/FRIENDSHIP_755_26.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2186,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Friendship",
+      "model": "R.I.T.C. 837",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2695",
+        "2696"
+      ],
+      "imageFile": "FRIENDSHIP_837_26.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/FRIENDSHIP_837_26.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2192,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "167-001",
+      "brand": "G. Yap",
+      "model": "Vulpe",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2703",
+        "2704"
+      ],
+      "imageFile": "167-001 G.Yap_Vulpe_picture.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/167-001 G.Yap_Vulpe_picture.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2196,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "28-010",
+      "brand": "Gambler",
+      "model": "GXL",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2725",
+        "2726"
+      ],
+      "imageFile": "Gambler_28_010.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Gambler_28_010.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2207,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-003",
+      "brand": "Giant Dragon",
+      "model": "Meteorite",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2871",
+        "2872"
+      ],
+      "imageFile": "giantdragon_003_meteorite.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giantdragon_003_meteorite.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2241,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-004",
+      "brand": "Giant Dragon",
+      "model": "Giant Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2873",
+        "2874"
+      ],
+      "imageFile": "giantdragon_004giantlong.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giantdragon_004giantlong.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2242,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-012",
+      "brand": "Giant Dragon",
+      "model": "Dragon Talon",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "2889",
+        "2890",
+        "9572"
+      ],
+      "imageFile": "giant_dragon_012_dragon_talon.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giant_dragon_012_dragon_talon.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2250,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-013",
+      "brand": "Giant Dragon",
+      "model": "Snowflake",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2891",
+        "2892"
+      ],
+      "imageFile": "giant_dragon_013_snowflake.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giant_dragon_013_snowflake.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2251,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-014",
+      "brand": "Giant Dragon",
+      "model": "Cropcircles",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2893",
+        "2894"
+      ],
+      "imageFile": "giant_dragon_014_cropcircles.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giant_dragon_014_cropcircles.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 2252,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "30-017",
+      "brand": "Giant Dragon",
+      "model": "Attack Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2899",
+        "2900"
+      ],
+      "imageFile": "giantdragon_30_017.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/giantdragon_30_017.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2255,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "31-001",
+      "brand": "GKI",
+      "model": "Nano Sting",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2939",
+        "2940"
+      ],
+      "imageFile": "GKI_001_Nano_Sting.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/GKI_001_Nano_Sting.gif",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-03-31T00:00:00",
+      "equipmentId": 2272,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "32-001",
+      "brand": "Globe",
+      "model": "Mo Wang",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2957",
+        "2958"
+      ],
+      "imageFile": "globe_001_wang.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/globe_001_wang.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-03-31T00:00:00",
+      "equipmentId": 2281,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "32-002",
+      "brand": "Globe",
+      "model": "Mo Wang II",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2959",
+        "2960"
+      ],
+      "imageFile": "globe_002_wangii.jpg.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/globe_002_wangii.jpg.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 2282,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Globe",
+      "model": "979",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2969",
+        "2970"
+      ],
+      "imageFile": "GLOBE_979.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/GLOBE_979.JPG",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 2287,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "34-005",
+      "brand": "Guoqiu",
+      "model": "MG Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2997",
+        "2998"
+      ],
+      "imageFile": "GUOQIU 005 MG.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/GUOQIU 005 MG.JPG",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2301,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "90-009",
+      "brand": "Haifu",
+      "model": "Octopus",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3015",
+        "3016"
+      ],
+      "imageFile": "haifu_009_octupus.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/haifu_009_octupus.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2310,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "145-006",
+      "brand": "Haitian",
+      "model": "Sea Dragon",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3027",
+        "3028"
+      ],
+      "imageFile": "HAITAN 006 Sea Dragon.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HAITAN 006 Sea Dragon.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2316,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-004",
+      "brand": "Hallmark",
+      "model": "Pheonix",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3031",
+        "3032"
+      ],
+      "imageFile": "HALLMARK 004 Phoenix.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HALLMARK 004 Phoenix.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2318,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-005",
+      "brand": "Hallmark",
+      "model": "Friction Special 2",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3033",
+        "3034"
+      ],
+      "imageFile": "HALLMARK 005 Friction Special 2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HALLMARK 005 Friction Special 2.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2319,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Hallmark",
+      "model": "Frustration",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3037",
+        "3038"
+      ],
+      "imageFile": "HALLMARK Frustration.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HALLMARK Frustration.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 2321,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "36-002",
+      "brand": "Imperial",
+      "model": "Spinbreaker",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3052",
+        "3053"
+      ],
+      "imageFile": "imperial_36_002.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/imperial_36_002.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2330,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "36-006",
+      "brand": "Imperial",
+      "model": "Vector Pro",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3060",
+        "3061"
+      ],
+      "imageFile": "IMPERIAL 006 Vector Pro.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/IMPERIAL 006 Vector Pro.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2334,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Japtec",
+      "model": "DL - 01",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3096",
+        "3097"
+      ],
+      "imageFile": "JAPTEC_DL_01_26B.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/JAPTEC_DL_01_26B.gif",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2352,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "40-002",
+      "brand": "Joola",
+      "model": "Shark",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3104",
+        "3105"
+      ],
+      "imageFile": "JOOLA_002_Shark.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/JOOLA_002_Shark.gif",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2356,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "40-003",
+      "brand": "Joola",
+      "model": "Orca",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3106",
+        "3107"
+      ],
+      "imageFile": "JOOLA_003_Orca.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/JOOLA_003_Orca.gif",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2357,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "40-028",
+      "brand": "Joola",
+      "model": "CWX",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3385",
+        "3386"
+      ],
+      "imageFile": "40 028 CWX.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/40 028 CWX.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2377,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Joola",
+      "model": "Badman",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3407",
+        "3408"
+      ],
+      "imageFile": "joola_badman.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/joola_badman.gif",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 2388,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Joola",
+      "model": "Octopus",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3421",
+        "3422"
+      ],
+      "imageFile": "JOOLA_27B.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/JOOLA_27B.gif",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 2395,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Juic",
+      "model": "Leggy R",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3459",
+        "3460"
+      ],
+      "imageFile": "JUIC_Leggy_R.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/JUIC_Leggy_R.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2414,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "198-005",
+      "brand": "KBS",
+      "model": "Truva Lp",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3477",
+        "3478"
+      ],
+      "imageFile": "KBS Truva.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/KBS Truva.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2425,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Kokutaku",
+      "model": "Tuple 911",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3507",
+        "3508"
+      ],
+      "imageFile": "KOKUTAKU 911.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/KOKUTAKU 911.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-03-31T00:00:00",
+      "equipmentId": 2438,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "110-003",
+      "brand": "KTL",
+      "model": "Stranger",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3511",
+        "3512"
+      ],
+      "imageFile": "ktl_003stranger.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ktl_003stranger.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2441,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "46-002",
+      "brand": "Lion",
+      "model": "Claw",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3543",
+        "3544"
+      ],
+      "imageFile": "LION 002 Claw.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/LION 002 Claw.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2457,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "46-015",
+      "brand": "Lion",
+      "model": "Trapper",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Violet"
+      ],
+      "colorIds": [
+        "3569",
+        "3570",
+        "4059"
+      ],
+      "imageFile": "lion trapper 46-015.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/lion trapper 46-015.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2470,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "180-001",
+      "brand": "Metal TT",
+      "model": "Death",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3601",
+        "3602"
+      ],
+      "imageFile": "180-001_METAL TT_Death_picture_.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/180-001_METAL TT_Death_picture_.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2486,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "48-001",
+      "brand": "Meteor",
+      "model": "8512",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3615",
+        "3616"
+      ],
+      "imageFile": "METEOR 001 8512 pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/METEOR 001 8512 pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2493,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "48-002",
+      "brand": "Meteor",
+      "model": "9012",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3617",
+        "3618"
+      ],
+      "imageFile": "METEOR 002 9012 pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/METEOR 002 9012 pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2494,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-009",
+      "brand": "Milky Way / Yinhe",
+      "model": "Super Kim",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Blue"
+      ],
+      "colorIds": [
+        "3355",
+        "3356",
+        "4412",
+        "4415"
+      ],
+      "imageFile": "49-009 Super kim.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/49-009 Super kim.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2502,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-010",
+      "brand": "Milky Way / Yinhe",
+      "model": "Qing",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3357",
+        "3358"
+      ],
+      "imageFile": "49-010 Qing.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/49-010 Qing.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 2503,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-016",
+      "brand": "Milky Way / Yinhe",
+      "model": "Young",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3625",
+        "3626"
+      ],
+      "imageFile": "49-016 Young.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/49-016 Young.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2505,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-017",
+      "brand": "Milky Way / Yinhe",
+      "model": "VIP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "colorIds": [
+        "3627",
+        "3628",
+        "9606",
+        "9607"
+      ],
+      "imageFile": "49-017 VIP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/49-017 VIP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2506,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-018",
+      "brand": "Milky Way / Yinhe",
+      "model": "VVIP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "3629",
+        "3630",
+        "4674"
+      ],
+      "imageFile": "49-018 VVIP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/49-018 VVIP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2507,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Milky Way / Yinhe",
+      "model": "955",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3621",
+        "3622"
+      ],
+      "imageFile": "Yinhe-955.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Yinhe-955.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-03-31T00:00:00",
+      "equipmentId": 2512,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "-",
+      "brand": "Milky Way / Yinhe",
+      "model": "Neptune",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3645",
+        "3646"
+      ],
+      "imageFile": "Yinhe-Neptune.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Yinhe-Neptune.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 2516,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "91-004",
+      "brand": "Neottec",
+      "model": "Tokkan",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3298",
+        "3299"
+      ],
+      "imageFile": "NEOTTEC_004_Tokkan.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NEOTTEC_004_Tokkan.gif",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2540,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "94-003",
+      "brand": "Nexy",
+      "model": "Chaos",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3288",
+        "3289"
+      ],
+      "imageFile": "NEXY 003 Chaos.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NEXY 003 Chaos.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-03-31T00:00:00",
+      "equipmentId": 2545,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "53-002",
+      "brand": "Nimatsu",
+      "model": "Zerberus",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3270",
+        "3271"
+      ],
+      "imageFile": "NIMATSU_002_Zerberus.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NIMATSU_002_Zerberus.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2547,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "54-013",
+      "brand": "Nittaku",
+      "model": "Wallest",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3134",
+        "3135"
+      ],
+      "imageFile": "NITTAKU_013_Wallest.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NITTAKU_013_Wallest.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2557,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "54-029",
+      "brand": "Nittaku",
+      "model": "Lonfrict",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3164",
+        "3165"
+      ],
+      "imageFile": "nittaku_54_029.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/nittaku_54_029.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 2572,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Nittaku",
+      "model": "Moristo LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3242",
+        "3243"
+      ],
+      "imageFile": "NITTAKU_Moristo_LP-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NITTAKU_Moristo_LP-1.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 2611,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Nittaku",
+      "model": "Moristo LP One",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3244",
+        "3245"
+      ],
+      "imageFile": "18March2024_15_12_0_NITTAKU MORISTO LP ONE.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/18March2024_15_12_0_NITTAKU MORISTO LP ONE.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2612,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Nittaku",
+      "model": "Screw",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3256",
+        "3257"
+      ],
+      "imageFile": "NITTAKU Screw.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NITTAKU Screw.JPG",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-09-30T00:00:00",
+      "equipmentId": 2620,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Nittaku",
+      "model": "Screw One",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3266",
+        "3267"
+      ],
+      "imageFile": "nittaku_screw_one.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/nittaku_screw_one.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-09-30T00:00:00",
+      "equipmentId": 2621,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Palio",
+      "model": "CK531A",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2831",
+        "2832"
+      ],
+      "imageFile": "PALIO_CK531A.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/PALIO_CK531A.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2642,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "170-004",
+      "brand": "Period Making",
+      "model": "Zebra",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2781",
+        "2782"
+      ],
+      "imageFile": "Periodmaking_170_004.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Periodmaking_170_004.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2653,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "163-001",
+      "brand": "Pimplepark",
+      "model": "Wobbler",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "2771",
+        "2772",
+        "4060"
+      ],
+      "imageFile": "Pimplepark_163_001.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Pimplepark_163_001.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2654,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "163-002",
+      "brand": "Pimplepark",
+      "model": "Cluster",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2773",
+        "2774"
+      ],
+      "imageFile": "Pimplepark_163_002 Cluster.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Pimplepark_163_002 Cluster.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2655,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "58-003",
+      "brand": "Prasidha",
+      "model": "Long 1615",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2753",
+        "2754"
+      ],
+      "imageFile": "prasidha_58_003.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/prasidha_58_003.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-09-30T00:00:00",
+      "equipmentId": 2659,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Prasidha",
+      "model": "Long-A",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2763",
+        "2764"
+      ],
+      "imageFile": "PRASIDHA Long A.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/PRASIDHA Long A.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": "2026-12-31T00:00:00",
+      "equipmentId": 2664,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "181-001",
+      "brand": "Proideal",
+      "model": "Magician I",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2747",
+        "2748"
+      ],
+      "imageFile": "Magician I-001?(???).jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Magician I-001?(???).jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2668,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "181-002",
+      "brand": "Proideal",
+      "model": "Magician II",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2749",
+        "2750"
+      ],
+      "imageFile": "Magician II-001?(???).jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Magician II-001?(???).jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2669,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "62-006",
+      "brand": "Sanwei",
+      "model": "Code",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2521",
+        "2522"
+      ],
+      "imageFile": "SANWEI_006_Code.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/SANWEI_006_Code.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2022-09-30T00:00:00",
+      "equipmentId": 2687,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "62-017",
+      "brand": "Sanwei",
+      "model": "DZ Dizzy",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2593",
+        "2594"
+      ],
+      "imageFile": "Design of  SANWEI Dizzy.png",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Design of  SANWEI Dizzy.png",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2695,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "130-001",
+      "brand": "Sauer & Troeger",
+      "model": "Hellfire",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2483",
+        "2484"
+      ],
+      "imageFile": "sauer_troeger_130_001.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/sauer_troeger_130_001.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2698,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "130-003",
+      "brand": "Sauer & Troeger",
+      "model": "Easy P",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2487",
+        "2488"
+      ],
+      "imageFile": "sauer_troeger_130_003.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/sauer_troeger_130_003.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2700,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "130-007",
+      "brand": "Sauer & Troeger",
+      "model": "Schmerz",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2499",
+        "2500"
+      ],
+      "imageFile": "Sauer_Troeger_130_007.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Sauer_Troeger_130_007.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2704,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "130-009",
+      "brand": "Sauer & Troeger",
+      "model": "Hellfire-X",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Violet",
+        "Blue"
+      ],
+      "colorIds": [
+        "2505",
+        "2506",
+        "4063",
+        "4064",
+        "9418"
+      ],
+      "imageFile": "Sauer Troger_HELLFIRE-X 130-009_picture-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Sauer Troger_HELLFIRE-X 130-009_picture-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2706,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "113-002",
+      "brand": "Saviga",
+      "model": "Fantasy",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2473",
+        "2474"
+      ],
+      "imageFile": "SAVIGA_002_Fantasy.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/SAVIGA_002_Fantasy.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2708,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "113-003",
+      "brand": "Saviga",
+      "model": "27",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2475",
+        "2476"
+      ],
+      "imageFile": "saviga_113_003.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/saviga_113_003.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2709,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "113-005",
+      "brand": "Saviga",
+      "model": "Monster 77",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2479",
+        "2480"
+      ],
+      "imageFile": "Saviga_113_005.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Saviga_113_005.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2711,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-004",
+      "brand": "Spinlord",
+      "model": "Zeitgeist",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2319",
+        "2320"
+      ],
+      "imageFile": "5March2026_9_0_37_SPINLORD_004_Zeitgeist.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/5March2026_9_0_37_SPINLORD_004_Zeitgeist.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2736,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-005",
+      "brand": "Spinlord",
+      "model": "Stachelfeuer",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "2321",
+        "2322",
+        "8328"
+      ],
+      "imageFile": "5March2026_9_2_9_SPINLORD_005_Stachelfeuer.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/5March2026_9_2_9_SPINLORD_005_Stachelfeuer.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2737,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-006",
+      "brand": "Spinlord",
+      "model": "Dornenglanz",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "2323",
+        "2324",
+        "4074"
+      ],
+      "imageFile": "spinlord_006_Dornenglanz.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_006_Dornenglanz.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2738,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-008",
+      "brand": "Spinlord",
+      "model": "Blitzschlag",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2327",
+        "2328"
+      ],
+      "imageFile": "spinlord_108_008.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_008.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2740,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-010",
+      "brand": "Spinlord",
+      "model": "Feuerstich",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2331",
+        "2332"
+      ],
+      "imageFile": "spinlord_108_110.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_110.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2742,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-012",
+      "brand": "Spinlord",
+      "model": "Sternenfall",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2335",
+        "2336"
+      ],
+      "imageFile": "spinlord_108_012.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_012.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2744,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-013",
+      "brand": "Spinlord",
+      "model": "Agenda",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2337",
+        "2338"
+      ],
+      "imageFile": "spinlord_108_013.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_013.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2745,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-015",
+      "brand": "Spinlord",
+      "model": "Dornenglanz II",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2341",
+        "2342"
+      ],
+      "imageFile": "spinlord_108_015.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_015.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2747,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-019",
+      "brand": "Spinlord",
+      "model": "Strahlkraft",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2349",
+        "2350"
+      ],
+      "imageFile": "spinlord_108_019.jpeg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/spinlord_108_019.jpeg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2751,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-024",
+      "brand": "Spinlord",
+      "model": "Leviathan",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2431",
+        "2432"
+      ],
+      "imageFile": "180-024_SPINLORD_Leviathan_picture with dimensions-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/180-024_SPINLORD_Leviathan_picture with dimensions-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2756,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "121-004",
+      "brand": "Starwood",
+      "model": "Alfa 3",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2239",
+        "2240"
+      ],
+      "imageFile": "starwood_121_004.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/starwood_121_004.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2026-06-30T00:00:00",
+      "equipmentId": 2795,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "68-035",
+      "brand": "Stiga",
+      "model": "Vertical 20",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2149",
+        "2150"
+      ],
+      "imageFile": "68-035_STIGA_Vertical 20_picture-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/68-035_STIGA_Vertical 20_picture-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2829,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "68-036",
+      "brand": "Stiga",
+      "model": "Vertical 55",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2151",
+        "2152"
+      ],
+      "imageFile": "68-036_STIGA_Vertical 55_picture-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/68-036_STIGA_Vertical 55_picture-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2830,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "68-037",
+      "brand": "Stiga",
+      "model": "Horizontal 20",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2153",
+        "2154"
+      ],
+      "imageFile": "Horizontal 20 Mould.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Horizontal 20 Mould.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2831,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "68-038",
+      "brand": "Stiga",
+      "model": "Horizontal 55",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "2155",
+        "2156"
+      ],
+      "imageFile": "Horizontal 55 Mould.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Horizontal 55 Mould.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2832,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "69-004",
+      "brand": "Sunflex",
+      "model": "Ice Breaker",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "1623",
+        "1624",
+        "4065"
+      ],
+      "imageFile": "sunflex ice breaker 69-004.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/sunflex ice breaker 69-004.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2875,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "70-016",
+      "brand": "Sword",
+      "model": "Venom",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1601",
+        "1602"
+      ],
+      "imageFile": "SWORD 016 Venom.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/SWORD 016 Venom.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2909,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "178-001",
+      "brand": "The Pimpleholics",
+      "model": "Jengking",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1565",
+        "1566"
+      ],
+      "imageFile": "178-001_THE PIMPLEHOLICS_Jengking_picture.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/178-001_THE PIMPLEHOLICS_Jengking_picture.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2921,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "178-003",
+      "brand": "The Pimpleholics",
+      "model": "Vetcong",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1569",
+        "1570"
+      ],
+      "imageFile": "1572393804622_The Pimpleholics VETCONG Branding Dimension latest 29 Oct 19(1)-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/1572393804622_The Pimpleholics VETCONG Branding Dimension latest 29 Oct 19(1)-1.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 2923,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "74-003",
+      "brand": "Tibhar",
+      "model": "Grass Ultra",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1261",
+        "1262"
+      ],
+      "imageFile": "TIBHAR 003 Grass Ultra-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TIBHAR 003 Grass Ultra-1.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 2928,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "74-010",
+      "brand": "Tibhar",
+      "model": "Mythik",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1273",
+        "1274"
+      ],
+      "imageFile": "TIBHAR 010 Mythik.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TIBHAR 010 Mythik.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2024-09-30T00:00:00",
+      "equipmentId": 2934,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Tibhar",
+      "model": "Extra Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1447",
+        "1448"
+      ],
+      "imageFile": "TIBHAR Extra Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TIBHAR Extra Long.jpg",
+      "isActive": false,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": "2026-06-30T00:00:00",
+      "equipmentId": 2974,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Tibhar",
+      "model": "Grass",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1451",
+        "1452"
+      ],
+      "imageFile": "TIBHAR Grass.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TIBHAR Grass.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2975,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Tibhar",
+      "model": "Grass D. TecS",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "1455",
+        "1456",
+        "3995"
+      ],
+      "imageFile": "TIBHAR_Grass_D TecS-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TIBHAR_Grass_D TecS-1.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2976,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "76-001",
+      "brand": "TSP",
+      "model": "Curl P-H",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1165",
+        "1166"
+      ],
+      "imageFile": "TSP 001 Curl PH.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TSP 001 Curl PH.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 2998,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "76-009",
+      "brand": "TSP",
+      "model": "Curl P-4",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1177",
+        "1178"
+      ],
+      "imageFile": "TSP_009_Curl_ P-4.jpg.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TSP_009_Curl_ P-4.jpg.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3004,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "TSP",
+      "model": "Curl P-1 R",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1207",
+        "1208"
+      ],
+      "imageFile": "TSP Curl P-1 R.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TSP Curl P-1 R.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3019,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "TSP",
+      "model": "Curl P-3",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1211",
+        "1212"
+      ],
+      "imageFile": "TSP Curl P-3.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TSP Curl P-3.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3021,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "TSP",
+      "model": "Curl P-3a R",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1213",
+        "1214"
+      ],
+      "imageFile": "TSP Curl P-3 alpha.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TSP Curl P-3 alpha.JPG",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3022,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "96-008",
+      "brand": "Tuttle",
+      "model": "Autumn-3D",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "1141",
+        "1142"
+      ],
+      "imageFile": "TUTTLE_008_Autumn_3D.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/TUTTLE_008_Autumn_3D.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3043,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "176-005",
+      "brand": "Winney",
+      "model": "C5",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "959",
+        "960"
+      ],
+      "imageFile": "005 C5.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/005 C5.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2023-03-31T00:00:00",
+      "equipmentId": 3085,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "78-002",
+      "brand": "Winning",
+      "model": "NP Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "843",
+        "844"
+      ],
+      "imageFile": "78-002_WINNING_NP Long_picture.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/78-002_WINNING_NP Long_picture.JPG",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3087,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "78-003",
+      "brand": "Winning",
+      "model": "NP-Grass",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "845",
+        "846"
+      ],
+      "imageFile": "78-003_WINNING_NP-Grass_picture.JPG",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/78-003_WINNING_NP-Grass_picture.JPG",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3088,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "79-046",
+      "brand": "Xiom",
+      "model": "Vega LPO",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "703",
+        "704"
+      ],
+      "imageFile": "xiom_79_046.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/xiom_79_046.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3130,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Yasaka",
+      "model": "Phantom 007",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "585",
+        "586"
+      ],
+      "imageFile": "yasaka_phantom_007.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/yasaka_phantom_007.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3197,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Yasaka",
+      "model": "Phantom 008",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "587",
+        "588"
+      ],
+      "imageFile": "yasaka_phantom_008.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/yasaka_phantom_008.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3198,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Yasaka",
+      "model": "Phantom 009",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "589",
+        "590"
+      ],
+      "imageFile": "yasaka_phantom_009.gif",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/yasaka_phantom_009.gif",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3199,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Yasaka",
+      "model": "Phantom 0011 ~",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "591",
+        "592"
+      ],
+      "imageFile": "Phantom 00118.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Phantom 00118.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3200,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": null,
+      "brand": "Yasaka",
+      "model": "Phantom 0012 ~",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "593",
+        "594"
+      ],
+      "imageFile": "Phantom 00128.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Phantom 00128.jpg",
+      "isActive": true,
+      "approvalStatus": false,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3201,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "115-004",
+      "brand": "61 second",
+      "model": "Artist",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "343",
+        "344"
+      ],
+      "imageFile": "61second_115_004.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/61second_115_004.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2021-09-30T00:00:00",
+      "equipmentId": 3227,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-007",
+      "brand": "Hallmark",
+      "model": "Tactics LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3664",
+        "3665"
+      ],
+      "imageFile": "HALLMARK 007 tactics LP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HALLMARK 007 tactics LP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3234,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-008",
+      "brand": "Hallmark",
+      "model": "Destroyer",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3666",
+        "3667"
+      ],
+      "imageFile": "HALLMARK 008 Destroyer.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/HALLMARK 008 Destroyer.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3235,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "46-018 ",
+      "brand": "Lion",
+      "model": "Trapper SP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Violet"
+      ],
+      "colorIds": [
+        "3682",
+        "3683",
+        "4058"
+      ],
+      "imageFile": "lion trapper sp 46-018.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/lion trapper sp 46-018.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3243,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "54-058",
+      "brand": "Nittaku",
+      "model": "DO Knuckle LONG-1",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3686",
+        "3687"
+      ],
+      "imageFile": "NITTAKU 058 Do Knuckle 1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NITTAKU 058 Do Knuckle 1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3245,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "20-001",
+      "brand": "Dawei",
+      "model": "388 D-2 ",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "colorIds": [
+        "3710",
+        "3711",
+        "4223",
+        "4224",
+        "4225"
+      ],
+      "imageFile": "DAWEI 001 388 D-2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DAWEI 001 388 D-2.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3257,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "20-002",
+      "brand": "Dawei",
+      "model": "King of Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3712",
+        "3713"
+      ],
+      "imageFile": "DAWEI 002 King of Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DAWEI 002 King of Long.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3258,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "60-010",
+      "brand": "Reactor",
+      "model": "Tornado Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3742",
+        "3743"
+      ],
+      "imageFile": "REACTOR Tornado_Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/REACTOR Tornado_Artwork.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 3273,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "113-007",
+      "brand": "Saviga",
+      "model": "Super Block ",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3744",
+        "3745"
+      ],
+      "imageFile": "Saviga   rubber pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Saviga   rubber pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3274,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "113-008",
+      "brand": "Saviga",
+      "model": "Super Long",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3746",
+        "3747"
+      ],
+      "imageFile": "SAVIGA 008 Super Long.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/SAVIGA 008 Super Long.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3275,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-038",
+      "brand": "Victas",
+      "model": "Curl P1V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3770",
+        "3771"
+      ],
+      "imageFile": "Victas CURL P1V indentification artwork data-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Victas CURL P1V indentification artwork data-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3287,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-040",
+      "brand": "Victas",
+      "model": "Curl P3V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3774",
+        "3775"
+      ],
+      "imageFile": "Victas CURL P3V indentification artwork data-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Victas CURL P3V indentification artwork data-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3289,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-041",
+      "brand": "Victas",
+      "model": "Curl P3 Alpha V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3776",
+        "3777"
+      ],
+      "imageFile": "Victas CURL P3 Alpha V indentification artwork data-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Victas CURL P3 Alpha V indentification artwork data-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3290,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-042 ",
+      "brand": "Victas",
+      "model": "Curl P4V ",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3778",
+        "3779"
+      ],
+      "imageFile": "0001 2.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/0001 2.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3291,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-043",
+      "brand": "Victas",
+      "model": "Curl P5V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3780",
+        "3781"
+      ],
+      "imageFile": "0001.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/0001.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3292,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-027 ",
+      "brand": "Spinlord",
+      "model": "Dornenglanz III",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3784",
+        "3785"
+      ],
+      "imageFile": "SPINLORD 027 Dornenglaz III_pic.png",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/SPINLORD 027 Dornenglaz III_pic.png",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3294,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "70-019",
+      "brand": "Sword",
+      "model": "Scylla III",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3792",
+        "3793"
+      ],
+      "imageFile": "scylla3 70-019.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/scylla3 70-019.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3298,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "94-007 ",
+      "brand": "Nexy",
+      "model": "Stealer",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3794",
+        "3795"
+      ],
+      "imageFile": "NEXY 007 Stealer.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/NEXY 007 Stealer.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3299,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-049",
+      "brand": "Dr Neubauer",
+      "model": "Punch",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3825",
+        "3826"
+      ],
+      "imageFile": "049 Punch.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/049 Punch.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3306,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "38-001",
+      "brand": "Japtec",
+      "model": "Fickle",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3831",
+        "3832"
+      ],
+      "imageFile": "japtec 38001 (002).jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/japtec 38001 (002).jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3309,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "201-004",
+      "brand": "Hostepoch",
+      "model": "PotentBlock",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3877",
+        "3878"
+      ],
+      "imageFile": "201-004 HOSTEPOPOCH PotentBlock Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/201-004 HOSTEPOPOCH PotentBlock Artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3332,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "14-042",
+      "brand": "Butterfly",
+      "model": "Ilius B",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3890",
+        "3891"
+      ],
+      "imageFile": "ILIUS B_14-042.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ILIUS B_14-042.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3334,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "14-043",
+      "brand": "Butterfly",
+      "model": "Ilius S",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3892",
+        "3893"
+      ],
+      "imageFile": "ILIUS S_14-043.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/ILIUS S_14-043.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3335,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "212-003",
+      "brand": "Blütenkirsche",
+      "model": "KKT 911",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "3926",
+        "3927",
+        "3928"
+      ],
+      "imageFile": "212-003 KKT 911 artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/212-003 KKT 911 artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3344,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "193-012",
+      "brand": "Barna Original",
+      "model": "Virus-2",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3942",
+        "3943"
+      ],
+      "imageFile": "193-012 BARNA ORIGINAL Virus Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/193-012 BARNA ORIGINAL Virus Artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3349,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "180-002",
+      "brand": "Metal TT",
+      "model": "Brutal",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "3952",
+        "3953"
+      ],
+      "imageFile": "Artwork_big.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Artwork_big.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3354,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-028",
+      "brand": "Spinlord",
+      "model": "Minotaur",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "3956",
+        "3957",
+        "3958"
+      ],
+      "imageFile": "Artwork.jpg_new_0.6401088732090792",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/Artwork.jpg_new_0.6401088732090792",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3356,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-035",
+      "brand": "Der Materialspezialist",
+      "model": "Spectre",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Violet"
+      ],
+      "colorIds": [
+        "4084",
+        "4085",
+        "4086",
+        "4087",
+        "4088",
+        "4089"
+      ],
+      "imageFile": "DER MATER 035 Spectre.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DER MATER 035 Spectre.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3375,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-015",
+      "brand": "Milky Way / Yinhe",
+      "model": "Moxa 955",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "colorIds": [
+        "4126",
+        "4127",
+        "4128",
+        "4129"
+      ],
+      "imageFile": "YINHE MILKYWAY 015 Moxa 95.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/YINHE MILKYWAY 015 Moxa 95.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3391,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-058",
+      "brand": "Dr Neubauer",
+      "model": "Desperado Reloaded",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "colorIds": [
+        "4198",
+        "4199",
+        "4200",
+        "4201"
+      ],
+      "imageFile": "DR NEUBAUER 058 KDesperado Reloaded - Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/DR NEUBAUER 058 KDesperado Reloaded - Artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3400,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "195-003",
+      "brand": "Spinlab",
+      "model": "Caronte",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4207",
+        "4208"
+      ],
+      "imageFile": "003 CARONTE Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/003 CARONTE Artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3403,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-012",
+      "brand": "Milky Way / Yinhe",
+      "model": "Moxa Neptune",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Blue"
+      ],
+      "colorIds": [
+        "4374",
+        "4375",
+        "4376",
+        "4377"
+      ],
+      "imageFile": "28December2022_18_28_36_49-012 MOXA Neptune_without dim.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/28December2022_18_28_36_49-012 MOXA Neptune_without dim.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3427,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "193-009",
+      "brand": "Barna Original",
+      "model": "Spin Trick",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "4451",
+        "4452",
+        "4453"
+      ],
+      "imageFile": "29March2023_12_39_3_BARNA 009 Spin Trick.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_12_39_3_BARNA 009 Spin Trick.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3436,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "21-064",
+      "brand": "Donic",
+      "model": "Piranja CD",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4457",
+        "4458"
+      ],
+      "imageFile": "29March2023_12_56_34_DONIC 064_PIRANJA-CD_Mould_21-64_ZW.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_12_56_34_DONIC 064_PIRANJA-CD_Mould_21-64_ZW.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3438,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "26-060",
+      "brand": "Dr Neubauer",
+      "model": "Trouble Maker Reloaded",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4469",
+        "4470"
+      ],
+      "imageFile": "29March2023_14_30_41_DrNeubauer Logo Area TROUBLE MAKER RELOADED.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_14_30_41_DrNeubauer Logo Area TROUBLE MAKER RELOADED.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3444,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-010",
+      "brand": "Hallmark",
+      "model": "Confusion -LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green"
+      ],
+      "colorIds": [
+        "4471",
+        "4472",
+        "4473"
+      ],
+      "imageFile": "29March2023_14_56_42_HALLMARK 010 Confusion LP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_14_56_42_HALLMARK 010 Confusion LP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3445,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "35-011",
+      "brand": "Hallmark",
+      "model": "Clutter-LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Violet"
+      ],
+      "colorIds": [
+        "4474",
+        "4475",
+        "4476"
+      ],
+      "imageFile": "29March2023_15_15_30_HALLMARK 011 Clutter-LP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_15_15_30_HALLMARK 011 Clutter-LP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3446,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "130-010",
+      "brand": "Sauer & Troeger",
+      "model": "Monkey",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIds": [
+        "4507",
+        "4508",
+        "4509"
+      ],
+      "imageFile": "1April2023_9_10_53_SAUER TROEGER 010 Monkey.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/1April2023_9_10_53_SAUER TROEGER 010 Monkey.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3459,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-030",
+      "brand": "Spinlord",
+      "model": "Hai",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4510",
+        "4511"
+      ],
+      "imageFile": "29March2023_18_2_57_SPINLORD 030 Hai.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/29March2023_18_2_57_SPINLORD 030 Hai.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3460,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "230-001",
+      "brand": "Radak",
+      "model": "D1",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Pink"
+      ],
+      "colorIds": [
+        "4585",
+        "4586",
+        "4587",
+        "4588"
+      ],
+      "imageFile": "30June2023_11_28_27_RADAK 001 D-1.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/30June2023_11_28_27_RADAK 001 D-1.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3477,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "231-004",
+      "brand": "Super Kaiser",
+      "model": "Soft G61",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4637",
+        "4638"
+      ],
+      "imageFile": "23September2023_15_25_4_SUPER KAISER 004 Soft G61_artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/23September2023_15_25_4_SUPER KAISER 004 Soft G61_artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3496,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "223-001",
+      "brand": "The Spartanz",
+      "model": "Helangz",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4641",
+        "4642"
+      ],
+      "imageFile": "23September2023_15_42_49_THE SPARTANZ 001 Helangz_artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/23September2023_15_42_49_THE SPARTANZ 001 Helangz_artwork.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": "2025-06-30T00:00:00",
+      "equipmentId": 3498,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "221-003",
+      "brand": "Yuanyixing TT",
+      "model": "Chiyan",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4658",
+        "4659"
+      ],
+      "imageFile": "23September2023_16_33_13_YUANYIXING 003 Chiyan_artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/23September2023_16_33_13_YUANYIXING 003 Chiyan_artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3505,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "235-003",
+      "brand": "Tulpe",
+      "model": "Diamond-J",
+      "pimpleType": "Long",
+      "colors": [
+        "Black",
+        "Green",
+        "Pink",
+        "Red"
+      ],
+      "colorIds": [
+        "4723",
+        "4724",
+        "4725",
+        "4841"
+      ],
+      "imageFile": "25December2023_18_55_42_TULPE 003 Diamond-J.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/25December2023_18_55_42_TULPE 003 Diamond-J.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3527,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "83-038",
+      "brand": "Yasaka",
+      "model": "Braboss",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4733",
+        "4734"
+      ],
+      "imageFile": "25December2023_19_20_58_YASAKA 038 BRABOSS.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/25December2023_19_20_58_YASAKA 038 BRABOSS.jpg",
+      "isActive": false,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": "2026-06-30T00:00:00",
+      "equipmentId": 3531,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "234-004",
+      "brand": "Zhuo Long",
+      "model": "DeterrentLong",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4747",
+        "4748"
+      ],
+      "imageFile": "25December2023_19_49_1_ZHUO LONG-004 WITHOUT Dimensions copy.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/25December2023_19_49_1_ZHUO LONG-004 WITHOUT Dimensions copy.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3538,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-042",
+      "brand": "Der Materialspezialist",
+      "model": "Fakir",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Violet"
+      ],
+      "colorIds": [
+        "4795",
+        "4796",
+        "4797",
+        "4798",
+        "4799",
+        "4800"
+      ],
+      "imageFile": "26March2024_14_29_19_DER MATERIALSPEZIALIST 042 Fakir.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/26March2024_14_29_19_DER MATERIALSPEZIALIST 042 Fakir.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3546,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-031",
+      "brand": "Spinlord",
+      "model": "Greif",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4820",
+        "4821"
+      ],
+      "imageFile": "26March2024_15_39_18_SPINLORD 031 Grief.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/26March2024_15_39_18_SPINLORD 031 Grief.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3556,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "158-019",
+      "brand": "Loki",
+      "model": "Kirin-LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "4881",
+        "4882"
+      ],
+      "imageFile": "24June2024_12_37_12_LOKI 019 Kirin-LP.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/24June2024_12_37_12_LOKI 019 Kirin-LP.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 3579,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-008",
+      "brand": "Milky Way / Yinhe",
+      "model": "Qing Pro",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Pink"
+      ],
+      "colorIds": [
+        "4885",
+        "4886",
+        "4887"
+      ],
+      "imageFile": "24June2024_12_41_51_MILKYWAY YINHE 008 Qing Pro.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/24June2024_12_41_51_MILKYWAY YINHE 008 Qing Pro.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3581,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "46-021",
+      "brand": "Lion",
+      "model": "Trapper X",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "5059",
+        "5060"
+      ],
+      "imageFile": "22December2024_17_4_32_LION 021 Trapper X.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/22December2024_17_4_32_LION 021 Trapper X.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3649,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-033",
+      "brand": "Spinlord",
+      "model": "Dornenglanz X",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "5077",
+        "5078"
+      ],
+      "imageFile": "22December2024_18_20_38_SPINLORD 033 Dornenglanz X.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/22December2024_18_20_38_SPINLORD 033 Dornenglanz X.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3658,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "203-003",
+      "brand": "Young Shine",
+      "model": "Handi",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "5087",
+        "5088"
+      ],
+      "imageFile": "22December2024_18_39_35_YOUNG SHINE 003 Handi.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/22December2024_18_39_35_YOUNG SHINE 003 Handi.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 3663,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "118-044",
+      "brand": "Der Materialspezialist",
+      "model": "Hallucination",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "colorIds": [
+        "8348",
+        "8349",
+        "8350",
+        "8351"
+      ],
+      "imageFile": "31December2025_16_16_30_DER MATERIALSPEZIALIST 044_pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/31December2025_16_16_30_DER MATERIALSPEZIALIST 044_pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5739,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "27-024",
+      "brand": "Friendship",
+      "model": "Xuan D.",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "8360",
+        "8361"
+      ],
+      "imageFile": "31December2025_16_26_40_FRIENDSHIP 024_pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/31December2025_16_26_40_FRIENDSHIP 024_pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5741,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "181-009",
+      "brand": "Proideal",
+      "model": "Rubouter V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Pink"
+      ],
+      "colorIds": [
+        "8370",
+        "8371",
+        "8372",
+        "8373"
+      ],
+      "imageFile": "31December2025_16_41_52_PROIDEAL 009_pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/31December2025_16_41_52_PROIDEAL 009_pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5746,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "181-012",
+      "brand": "Proideal",
+      "model": "MagicianBlock II Pro",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black",
+        "Green",
+        "Pink"
+      ],
+      "colorIds": [
+        "8374",
+        "8375",
+        "8376",
+        "8377"
+      ],
+      "imageFile": "31December2025_16_52_11_PROIDEAL 012_pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/31December2025_16_52_11_PROIDEAL 012_pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5747,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "108-034",
+      "brand": "Spinlord",
+      "model": "Hydra X",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9404",
+        "9405"
+      ],
+      "imageFile": "30January2026_12_59_59_SPINLORD Hydra X pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/30January2026_12_59_59_SPINLORD Hydra X pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5756,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "49-047",
+      "brand": "Milky Way / Yinhe",
+      "model": "Particle World",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9416",
+        "9417"
+      ],
+      "imageFile": "12February2026_15_34_36_49-047 Pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/12February2026_15_34_36_49-047 Pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5758,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "195-004",
+      "brand": "Spinlab",
+      "model": "Lochness",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9440",
+        "9441"
+      ],
+      "imageFile": "31March2026_12_9_1_SPINLAb 004 Lochness.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/31March2026_12_9_1_SPINLAb 004 Lochness.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": false,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5768,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-060",
+      "brand": "Victas",
+      "model": "Curl P7V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9532",
+        "9533"
+      ],
+      "imageFile": "12June2026_18_23_25_VICTAS 060 pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/12June2026_18_23_25_VICTAS 060 pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": true,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5803,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "117-061",
+      "brand": "Victas",
+      "model": "Curl P8V",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9534",
+        "9535"
+      ],
+      "imageFile": "12June2026_18_25_34_VICTAS 061 pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/12June2026_18_25_34_VICTAS 061 pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": true,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5804,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "68-083",
+      "brand": "Stiga",
+      "model": "Mantra LP",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9540",
+        "9541"
+      ],
+      "imageFile": "24June2026_17_24_56_STIGA 083 Artwork pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/24June2026_17_24_56_STIGA 083 Artwork pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": true,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5807,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "268-007",
+      "brand": "Wdir",
+      "model": "368-D",
+      "pimpleType": "Long",
+      "colors": [
+        "Black"
+      ],
+      "colorIds": [
+        "9566"
+      ],
+      "imageFile": "21July2026_14_34_50_WDIR 007 pic.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/21July2026_14_34_50_WDIR 007 pic.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": true,
+      "hasOXVersion": null,
+      "expiresOn": null,
+      "equipmentId": 5818,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    },
+    {
+      "code": "235-007",
+      "brand": "Tulpe",
+      "model": "Yellowstone Park",
+      "pimpleType": "Long",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIds": [
+        "9610",
+        "9611"
+      ],
+      "imageFile": "24August2026_17_11_25_TULPE 007 Artwork.jpg",
+      "imageUrl": "https://stittfadmin.blob.core.windows.net/websitefiles/equipment/24August2026_17_11_25_TULPE 007 Artwork.jpg",
+      "isActive": true,
+      "approvalStatus": true,
+      "isNew": true,
+      "hasOXVersion": "1",
+      "expiresOn": null,
+      "equipmentId": 5834,
+      "updatedAt": "2026-09-04T14:44:09.200Z"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pingpang-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ITTF LARC long pimple rubber data sync (direct API, no browser)",
+  "scripts": {
+    "scrape": "node scraper.mjs",
+    "scrape:detail": "node scraper.mjs --with-detail"
+  }
+}

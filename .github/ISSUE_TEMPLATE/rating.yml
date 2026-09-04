@@ -1,0 +1,114 @@
+name: 长胶评分
+description: 对一款 ITTF 认证长胶胶皮进行评分
+title: "评分 | <品牌> <型号>"
+labels: ["rating"]
+body:
+  - type: input
+    id: rubber_code
+    attributes:
+      label: 胶皮 Code
+      description: ITTF 装备编号（如 14-028），可在评价库网站搜索
+      placeholder: "14-028"
+    validations:
+      required: true
+
+  - type: input
+    id: rubber_brand
+    attributes:
+      label: 品牌
+      placeholder: "Butterfly"
+    validations:
+      required: true
+
+  - type: input
+    id: rubber_model
+    attributes:
+      label: 型号
+      placeholder: "Feint Long II"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: style
+    attributes:
+      label: 打法类型
+      options:
+        - 削球型
+        - 防反型
+        - 进攻型
+        - 全能型
+    validations:
+      required: true
+
+  - type: dropdown
+    id: position
+    attributes:
+      label: 使用位置
+      options:
+        - 反手
+        - 正手
+        - 正反手
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sponge
+    attributes:
+      label: 海绵
+      options:
+        - OX (无海绵)
+        - 薄海绵 (≤1.0mm)
+        - 厚海绵 (>1.0mm)
+    validations:
+      required: true
+
+  - type: input
+    id: spin_reversal
+    attributes:
+      label: 变化/反转 (1-5)
+      description: 颗粒产生的旋转变化程度
+      placeholder: "5"
+    validations:
+      required: true
+
+  - type: input
+    id: control
+    attributes:
+      label: 控制 (1-5)
+      placeholder: "3"
+    validations:
+      required: true
+
+  - type: input
+    id: attack
+    attributes:
+      label: 进攻能力 (1-5)
+      placeholder: "2"
+    validations:
+      required: true
+
+  - type: input
+    id: weirdness
+    attributes:
+      label: 怪异度 (1-5)
+      description: 对手的不适应程度
+      placeholder: "4"
+    validations:
+      required: true
+
+  - type: input
+    id: durability
+    attributes:
+      label: 耐用度 (1-5)
+      placeholder: "3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: 评价
+      description: 使用感受、优缺点等
+      placeholder: "颗粒很软，变化大但防守容易下网..."
+    validations:
+      required: false
