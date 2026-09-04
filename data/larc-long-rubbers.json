@@ -4,7 +4,7 @@
     "apiEndpoint": "https://ittf-admin-api.azurewebsites.net/api/Equipment_RacketCoverings/all_list",
     "filter": "PimpleType=Long",
     "total": 229,
-    "scrapedAt": "2026-09-04T14:44:09.200Z",
+    "scrapedAt": "2026-09-04T15:11:41.227Z",
     "withDetail": false
   },
   "rubbers": [
@@ -29,7 +29,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 1613,
-      "updatedAt": "2026-09-04T14:44:09.198Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "115-007",
@@ -52,7 +52,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 1619,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "106-003",
@@ -75,7 +75,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1623,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "95-005",
@@ -98,7 +98,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1633,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "03-006",
@@ -121,7 +121,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 1640,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "03-034",
@@ -144,7 +144,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1666,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -167,7 +167,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1706,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -190,7 +190,7 @@
       "hasOXVersion": null,
       "expiresOn": "2026-06-30T00:00:00",
       "equipmentId": 1731,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "193-003",
@@ -213,7 +213,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1749,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "193-004",
@@ -236,7 +236,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1750,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -259,7 +259,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1771,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -282,7 +282,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 1820,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -305,7 +305,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1821,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -328,7 +328,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1822,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -351,7 +351,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1823,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -374,7 +374,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 1824,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "19-002",
@@ -397,7 +397,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-09-30T00:00:00",
       "equipmentId": 1878,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -420,7 +420,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1886,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -449,7 +449,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1887,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -478,7 +478,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1890,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "189-008",
@@ -501,7 +501,7 @@
       "hasOXVersion": "1",
       "expiresOn": "2026-06-30T00:00:00",
       "equipmentId": 1898,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-003",
@@ -524,7 +524,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 1901,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-004",
@@ -547,7 +547,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 1902,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-007",
@@ -570,7 +570,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 1905,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-008",
@@ -593,7 +593,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1906,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-017",
@@ -616,7 +616,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1915,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-020",
@@ -639,7 +639,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1918,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-025",
@@ -664,7 +664,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1923,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-029",
@@ -687,7 +687,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1927,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "118-033",
@@ -710,7 +710,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1931,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "149-002",
@@ -733,7 +733,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 1938,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "21-003",
@@ -756,7 +756,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 1941,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "21-035",
@@ -779,7 +779,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 1964,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "21-036",
@@ -802,7 +802,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 1965,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "-",
@@ -825,7 +825,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2002,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "23-008",
@@ -848,7 +848,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2022,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "24-027",
@@ -871,7 +871,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2057,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "24-028",
@@ -894,7 +894,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 2058,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "24-029",
@@ -917,7 +917,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2059,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "24-053",
@@ -940,7 +940,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 2077,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-003",
@@ -963,7 +963,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2088,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-004",
@@ -986,7 +986,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2089,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-009",
@@ -1009,7 +1009,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2094,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-010",
@@ -1032,7 +1032,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 2095,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-011",
@@ -1055,7 +1055,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2096,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-013",
@@ -1078,7 +1078,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2098,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-015",
@@ -1101,7 +1101,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2100,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-016",
@@ -1124,7 +1124,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2101,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-019",
@@ -1147,7 +1147,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2104,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-022",
@@ -1170,7 +1170,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2107,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-027",
@@ -1193,7 +1193,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2112,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-032",
@@ -1216,7 +1216,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2117,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "26-035",
@@ -1239,7 +1239,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2120,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.224Z"
     },
     {
       "code": "143-014",
@@ -1262,7 +1262,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2146,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "143-015",
@@ -1285,7 +1285,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2147,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1308,7 +1308,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2186,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1331,7 +1331,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2192,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "167-001",
@@ -1354,7 +1354,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2196,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "28-010",
@@ -1377,7 +1377,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2207,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-003",
@@ -1400,7 +1400,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2241,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-004",
@@ -1423,7 +1423,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2242,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-012",
@@ -1448,7 +1448,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2250,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-013",
@@ -1471,7 +1471,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2251,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-014",
@@ -1494,7 +1494,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 2252,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "30-017",
@@ -1517,7 +1517,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2255,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "31-001",
@@ -1540,7 +1540,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-03-31T00:00:00",
       "equipmentId": 2272,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "32-001",
@@ -1563,7 +1563,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-03-31T00:00:00",
       "equipmentId": 2281,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "32-002",
@@ -1586,7 +1586,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 2282,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1609,7 +1609,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 2287,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "34-005",
@@ -1632,7 +1632,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2301,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "90-009",
@@ -1655,7 +1655,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2310,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "145-006",
@@ -1678,7 +1678,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2316,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-004",
@@ -1701,7 +1701,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2318,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-005",
@@ -1724,7 +1724,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2319,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1747,7 +1747,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 2321,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "36-002",
@@ -1770,7 +1770,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2330,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "36-006",
@@ -1793,7 +1793,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2334,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1816,7 +1816,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2352,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "40-002",
@@ -1839,7 +1839,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2356,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "40-003",
@@ -1862,7 +1862,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2357,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "40-028",
@@ -1885,7 +1885,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2377,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1908,7 +1908,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 2388,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1931,7 +1931,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 2395,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -1954,7 +1954,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2414,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "198-005",
@@ -1977,7 +1977,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2425,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -2000,7 +2000,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-03-31T00:00:00",
       "equipmentId": 2438,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "110-003",
@@ -2023,7 +2023,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2441,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "46-002",
@@ -2046,7 +2046,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2457,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "46-015",
@@ -2071,7 +2071,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2470,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "180-001",
@@ -2094,7 +2094,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2486,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "48-001",
@@ -2117,7 +2117,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2493,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "48-002",
@@ -2140,7 +2140,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2494,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-009",
@@ -2167,7 +2167,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2502,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-010",
@@ -2190,7 +2190,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 2503,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-016",
@@ -2213,7 +2213,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2505,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-017",
@@ -2240,7 +2240,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2506,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-018",
@@ -2265,7 +2265,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2507,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -2288,7 +2288,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-03-31T00:00:00",
       "equipmentId": 2512,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "-",
@@ -2311,7 +2311,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 2516,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "91-004",
@@ -2334,7 +2334,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2540,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "94-003",
@@ -2357,7 +2357,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-03-31T00:00:00",
       "equipmentId": 2545,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "53-002",
@@ -2380,7 +2380,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2547,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "54-013",
@@ -2403,7 +2403,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2557,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "54-029",
@@ -2426,7 +2426,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 2572,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2449,7 +2449,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 2611,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2472,7 +2472,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2612,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2495,7 +2495,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-09-30T00:00:00",
       "equipmentId": 2620,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2518,7 +2518,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-09-30T00:00:00",
       "equipmentId": 2621,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2541,7 +2541,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2642,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "170-004",
@@ -2564,7 +2564,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2653,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "163-001",
@@ -2589,7 +2589,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2654,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "163-002",
@@ -2612,7 +2612,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2655,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "58-003",
@@ -2635,7 +2635,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-09-30T00:00:00",
       "equipmentId": 2659,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -2658,7 +2658,7 @@
       "hasOXVersion": "1",
       "expiresOn": "2026-12-31T00:00:00",
       "equipmentId": 2664,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "181-001",
@@ -2681,7 +2681,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2668,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "181-002",
@@ -2704,7 +2704,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2669,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "62-006",
@@ -2727,7 +2727,7 @@
       "hasOXVersion": null,
       "expiresOn": "2022-09-30T00:00:00",
       "equipmentId": 2687,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "62-017",
@@ -2750,7 +2750,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2695,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "130-001",
@@ -2773,7 +2773,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2698,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "130-003",
@@ -2796,7 +2796,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2700,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "130-007",
@@ -2819,7 +2819,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2704,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "130-009",
@@ -2848,7 +2848,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2706,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "113-002",
@@ -2871,7 +2871,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2708,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "113-003",
@@ -2894,7 +2894,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2709,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "113-005",
@@ -2917,7 +2917,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2711,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-004",
@@ -2940,7 +2940,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2736,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-005",
@@ -2965,7 +2965,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2737,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-006",
@@ -2990,7 +2990,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2738,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-008",
@@ -3013,7 +3013,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2740,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-010",
@@ -3036,7 +3036,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2742,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-012",
@@ -3059,7 +3059,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2744,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-013",
@@ -3082,7 +3082,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2745,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-015",
@@ -3105,7 +3105,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2747,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-019",
@@ -3128,7 +3128,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2751,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-024",
@@ -3151,7 +3151,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2756,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "121-004",
@@ -3174,7 +3174,7 @@
       "hasOXVersion": null,
       "expiresOn": "2026-06-30T00:00:00",
       "equipmentId": 2795,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "68-035",
@@ -3197,7 +3197,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2829,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "68-036",
@@ -3220,7 +3220,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2830,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "68-037",
@@ -3243,7 +3243,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2831,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "68-038",
@@ -3266,7 +3266,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2832,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "69-004",
@@ -3291,7 +3291,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2875,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "70-016",
@@ -3314,7 +3314,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2909,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "178-001",
@@ -3337,7 +3337,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2921,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "178-003",
@@ -3360,7 +3360,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 2923,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "74-003",
@@ -3383,7 +3383,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 2928,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "74-010",
@@ -3406,7 +3406,7 @@
       "hasOXVersion": null,
       "expiresOn": "2024-09-30T00:00:00",
       "equipmentId": 2934,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3429,7 +3429,7 @@
       "hasOXVersion": "1",
       "expiresOn": "2026-06-30T00:00:00",
       "equipmentId": 2974,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3452,7 +3452,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2975,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3477,7 +3477,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2976,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "76-001",
@@ -3500,7 +3500,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 2998,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "76-009",
@@ -3523,7 +3523,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3004,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3546,7 +3546,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3019,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3569,7 +3569,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3021,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3592,7 +3592,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3022,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "96-008",
@@ -3615,7 +3615,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3043,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "176-005",
@@ -3638,7 +3638,7 @@
       "hasOXVersion": null,
       "expiresOn": "2023-03-31T00:00:00",
       "equipmentId": 3085,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "78-002",
@@ -3661,7 +3661,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3087,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "78-003",
@@ -3684,7 +3684,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3088,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "79-046",
@@ -3707,7 +3707,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3130,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3730,7 +3730,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3197,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3753,7 +3753,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3198,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3776,7 +3776,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3199,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3799,7 +3799,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3200,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": null,
@@ -3822,7 +3822,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3201,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "115-004",
@@ -3845,7 +3845,7 @@
       "hasOXVersion": null,
       "expiresOn": "2021-09-30T00:00:00",
       "equipmentId": 3227,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-007",
@@ -3868,7 +3868,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3234,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-008",
@@ -3891,7 +3891,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3235,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "46-018 ",
@@ -3916,7 +3916,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3243,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "54-058",
@@ -3939,7 +3939,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3245,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "20-001",
@@ -3968,7 +3968,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3257,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "20-002",
@@ -3991,7 +3991,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3258,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "60-010",
@@ -4014,7 +4014,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 3273,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "113-007",
@@ -4037,7 +4037,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3274,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "113-008",
@@ -4060,7 +4060,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3275,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-038",
@@ -4083,7 +4083,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3287,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-040",
@@ -4106,7 +4106,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3289,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-041",
@@ -4129,7 +4129,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3290,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-042 ",
@@ -4152,7 +4152,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3291,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-043",
@@ -4175,7 +4175,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3292,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-027 ",
@@ -4198,7 +4198,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3294,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "70-019",
@@ -4221,7 +4221,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3298,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "94-007 ",
@@ -4244,7 +4244,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3299,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "26-049",
@@ -4267,7 +4267,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3306,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "38-001",
@@ -4290,7 +4290,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3309,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "201-004",
@@ -4313,7 +4313,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3332,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "14-042",
@@ -4336,7 +4336,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3334,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "14-043",
@@ -4359,7 +4359,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3335,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "212-003",
@@ -4384,7 +4384,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3344,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "193-012",
@@ -4407,7 +4407,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3349,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "180-002",
@@ -4430,7 +4430,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3354,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-028",
@@ -4455,7 +4455,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3356,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "118-035",
@@ -4486,7 +4486,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3375,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-015",
@@ -4513,7 +4513,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3391,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "26-058",
@@ -4540,7 +4540,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3400,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "195-003",
@@ -4563,7 +4563,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3403,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-012",
@@ -4590,7 +4590,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3427,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "193-009",
@@ -4615,7 +4615,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3436,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "21-064",
@@ -4638,7 +4638,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3438,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "26-060",
@@ -4661,7 +4661,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3444,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-010",
@@ -4686,7 +4686,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3445,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "35-011",
@@ -4711,7 +4711,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3446,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "130-010",
@@ -4736,7 +4736,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3459,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-030",
@@ -4759,7 +4759,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3460,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "230-001",
@@ -4786,7 +4786,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3477,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "231-004",
@@ -4809,7 +4809,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3496,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "223-001",
@@ -4832,7 +4832,7 @@
       "hasOXVersion": null,
       "expiresOn": "2025-06-30T00:00:00",
       "equipmentId": 3498,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "221-003",
@@ -4855,7 +4855,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3505,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "235-003",
@@ -4882,7 +4882,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3527,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "83-038",
@@ -4905,7 +4905,7 @@
       "hasOXVersion": "1",
       "expiresOn": "2026-06-30T00:00:00",
       "equipmentId": 3531,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "234-004",
@@ -4928,7 +4928,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3538,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "118-042",
@@ -4959,7 +4959,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3546,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-031",
@@ -4982,7 +4982,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3556,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "158-019",
@@ -5005,7 +5005,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 3579,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-008",
@@ -5030,7 +5030,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3581,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "46-021",
@@ -5053,7 +5053,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3649,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-033",
@@ -5076,7 +5076,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3658,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "203-003",
@@ -5099,7 +5099,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 3663,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "118-044",
@@ -5126,7 +5126,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5739,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "27-024",
@@ -5149,7 +5149,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5741,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "181-009",
@@ -5176,7 +5176,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5746,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "181-012",
@@ -5203,7 +5203,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5747,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "108-034",
@@ -5226,7 +5226,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5756,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "49-047",
@@ -5249,7 +5249,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5758,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "195-004",
@@ -5272,7 +5272,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5768,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-060",
@@ -5295,7 +5295,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5803,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "117-061",
@@ -5318,7 +5318,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5804,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "68-083",
@@ -5341,7 +5341,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5807,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "268-007",
@@ -5362,7 +5362,7 @@
       "hasOXVersion": null,
       "expiresOn": null,
       "equipmentId": 5818,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     },
     {
       "code": "235-007",
@@ -5385,7 +5385,7 @@
       "hasOXVersion": "1",
       "expiresOn": null,
       "equipmentId": 5834,
-      "updatedAt": "2026-09-04T14:44:09.200Z"
+      "updatedAt": "2026-09-04T15:11:41.225Z"
     }
   ]
 }
