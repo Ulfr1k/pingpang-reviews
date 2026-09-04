@@ -4,7 +4,6 @@ on:
   issues:
     types: [opened, edited, closed, reopened, deleted]
   schedule:
-    # Every hour, recompute averages from all rating issues
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -27,88 +26,73 @@ jobs:
       - name: Aggregate ratings from Issues
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          node << 'EOF'
+          node << 'SCRIPT'
           const fs = require('fs');
-
-          const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
-          const repo  = process.env.GITHUB_REPOSITORY.split('/')[1];
           const { execSync } = require('child_process');
+          const repo = process.env.REPO;
+          const [owner, name] = repo.split('/');
 
-          // Fetch all issues with the "rating" label using gh CLI
           let allIssues = [];
           let endCursor = null;
           do {
-            const query = endCursor
-              ? `--jq '.data.repository.issues'`
-              : '';
-            const args = [
-              'api', 'graphql', '-f', `query=query{repository(owner:"${owner}",name:"${repo}"){issues(first:100,labels:"rating",after:${endCursor ? '"'+endCursor+'"' : 'null'}){nodes{number title body state}pageInfo{endCursor hasNextPage}}}}`
-            ];
-            const res = execSync(`gh ${args.join(' ')}`, { encoding: 'utf-8' });
+            const after = endCursor ? '"' + endCursor + '"' : 'null';
+            const query = 'query{repository(owner:"' + owner + '",name:"' + name + '"){issues(first:100,labels:"rating",after:' + after + '){nodes{number title body state}pageInfo{endCursor hasNextPage}}}}';
+            const res = execSync('gh api graphql -f query=' + JSON.stringify(query), { encoding: 'utf-8' });
             const json = JSON.parse(res);
             const data = json.data.repository.issues;
             allIssues.push(...data.nodes);
             endCursor = data.pageInfo.hasNextPage ? data.pageInfo.endCursor : null;
           } while (endCursor);
 
-          console.log(`Fetched ${allIssues.length} rating issues`);
-
+          console.log('Fetched ' + allIssues.length + ' rating issues');
           const dims = ['spin_reversal','control','attack','weirdness','durability'];
           const byCode = {};
 
           for (const issue of allIssues) {
             if (issue.state !== 'OPEN') continue;
-            // Parse the issue body — GitHub form submissions are pipe-delimited
             const body = issue.body || '';
-            const get = (label) => {
-              const re = new RegExp(label.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + '\\s*\n(.+)', 'i');
+            function getField(label) {
+              const esc = label.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+              const re = new RegExp('###?\\s*' + esc + '\\s*\\n+\\s*([^\\n#]+)', 'i');
               const m = body.match(re);
               return m ? m[1].trim() : null;
-            };
+            }
 
-            const code = get('rubber_code') || get('胶皮 Code') || get('Code');
+            const code = getField('rubber_code') || getField('Code');
             if (!code) continue;
-
             const entry = {
               issueNumber: issue.number,
-              style: get('打法类型') || get('style'),
-              position: get('使用位置') || get('position'),
-              sponge: get('海绵') || get('sponge'),
-              comment: get('评价') || get('comment'),
+              style: getField('style'),
+              position: getField('position'),
+              sponge: getField('sponge'),
+              comment: getField('comment'),
               ratings: {},
             };
             for (const d of dims) {
-              const raw = get(d) || get(d.replace(/_/g,' '));
-              const val = parseInt(raw, 10);
+              const val = parseInt(getField(d), 10);
               if (val >= 1 && val <= 5) entry.ratings[d] = val;
             }
-
             if (!byCode[code]) byCode[code] = [];
             byCode[code].push(entry);
           }
 
-          // Compute averages
           const output = {};
           for (const [code, entries] of Object.entries(byCode)) {
             const sums = {};
             dims.forEach(d => sums[d] = 0);
             let count = 0;
             for (const e of entries) {
-              let hasRating = false;
-              for (const d of dims) {
-                if (e.ratings[d] != null) { sums[d] += e.ratings[d]; hasRating = true; }
-              }
-              if (hasRating) count++;
+              let has = false;
+              for (const d of dims) { if (e.ratings[d] != null) { sums[d] += e.ratings[d]; has = true; } }
+              if (has) count++;
             }
             const avg = {};
-            for (const d of dims) avg[d] = count ? +(sums[d] / count).toFixed(2) : 0;
-            const overall = count ? +(dims.reduce((s,d) => s + avg[d], 0) / dims.length).toFixed(2) : 0;
-
-            // Style distribution
+            for (const d of dims) avg[d] = count ? +(sums[d]/count).toFixed(2) : 0;
+            const overall = count ? +(dims.reduce((s,d)=>s+avg[d],0)/dims.length).toFixed(2) : 0;
             const styles = {};
             entries.forEach(e => { if (e.style) styles[e.style] = (styles[e.style]||0)+1; });
-
             output[code] = { average: avg, overall, count, styles, reviews: entries };
           }
 
@@ -116,8 +100,8 @@ jobs:
             meta: { generatedAt: new Date().toISOString(), totalReviews: allIssues.filter(i=>i.state==='OPEN').length },
             ratings: output
           }, null, 2));
-          console.log(`Wrote ratings for ${Object.keys(output).length} rubbers`);
-          EOF
+          console.log('Wrote ratings for ' + Object.keys(output).length + ' rubbers');
+          SCRIPT
 
       - name: Commit
         run: |
