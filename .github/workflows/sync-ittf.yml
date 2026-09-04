@@ -68,7 +68,7 @@ jobs:
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `ITTF sync failed — ${{ steps.changes.outputs.changed == 'true' && 'after partial commit' || 'no data written' }} (${{ new Date().toISOString().slice(0,10) }})`,
+              title: `ITTF sync failed — ${{ steps.changes.outputs.changed == 'true' && 'after partial commit' || 'no data written' }} (${{ github.run_number }})`,
               body: `The weekly ITTF long rubber sync failed. Check the [workflow run](${context.server_url}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}).`,
               labels: ["sync-failure", "needs-triage"]
             });
